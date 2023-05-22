@@ -1,6 +1,7 @@
 # WWDC22GumiEats
-WWDC22 Swift Student Challenge Winning project. Small Tamagotchi-like game in SwiftUI and SpriteKit
 <img align="right" width="180" height="180" src="GumiEatsStore.png">
+WWDC22 Swift Student Challenge Winning project. Small Tamagotchi-like game in SwiftUI and SpriteKit
+
 * Frameworks: SpriteKit, SwiftUI, GameplayKit, AVFoundation.
 
 GumiEats! Pizza Edition is an Arcade Game that revolves around little creatures called Gumi that like to eat...A lot! Pizza is their favorite food, so help them gather the right ingredients to cook it as they want!
