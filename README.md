@@ -13,4 +13,4 @@ The full game is intended to be as a home for your new virtual pet(s) with diffe
 </p>
 
 ## Gallery
-<img src="GumiProm.png">
+<img src="GumiPromo.png">
